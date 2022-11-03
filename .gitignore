@@ -3,3 +3,6 @@
 #ignore pycache and pytest cache
 __pycache__/
 .pytest_cache/
+#ignore coverages
+.coverage
+htmlcov/
